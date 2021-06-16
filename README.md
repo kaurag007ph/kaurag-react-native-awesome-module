@@ -1,17 +1,17 @@
-# react-native-awesome-module
+# kaurag-react-native-awesome-module
 
 react native awesome module
 
 ## Installation
 
 ```sh
-npm install react-native-awesome-module
+npm install kaurag-react-native-awesome-module
 ```
 
 ## Usage
 
 ```js
-import AwesomeModule from "react-native-awesome-module";
+import AwesomeModule from "kaurag-react-native-awesome-module";
 
 // ...
 

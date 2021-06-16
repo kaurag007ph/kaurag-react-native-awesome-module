@@ -1,6 +1,6 @@
 {
-  "name": "react-native-awesome-module-example",
-  "description": "Example app for react-native-awesome-module",
+  "name": "kaurag-react-native-awesome-module-example",
+  "description": "Example app for kaurag-react-native-awesome-module",
   "version": "0.0.1",
   "private": true,
   "main": "index",

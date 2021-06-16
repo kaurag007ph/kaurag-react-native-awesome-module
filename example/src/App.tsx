@@ -1,7 +1,7 @@
 import * as React from 'react';
 
 import { StyleSheet, View, Text } from 'react-native';
-import AwesomeModule from 'react-native-awesome-module';
+import AwesomeModule, { Task } from 'kaurag-react-native-awesome-module';
 
 export default function App() {
   const [result, setResult] = React.useState<number | undefined>();
@@ -13,6 +13,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Result: {result}</Text>
+      <Task name="Lawrence Amazing"></Task>
     </View>
   );
 }

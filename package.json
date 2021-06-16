@@ -1,5 +1,5 @@
 {
-  "name": "react-native-awesome-module",
+  "name": "kaurag-react-native-awesome-module",
   "version": "0.1.0",
   "description": "react native awesome module",
   "main": "lib/commonjs/index",
@@ -13,7 +13,7 @@
     "android",
     "ios",
     "cpp",
-    "react-native-awesome-module.podspec",
+    "kaurag-react-native-awesome-module.podspec",
     "!lib/typescript/example",
     "!android/build",
     "!ios/build",
@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/kaurag007ph/react-native-awesome-module",
+  "repository": "https://github.com/kaurag007ph/kaurag-react-native-awesome-module",
   "author": "lawrence <l.marcelino007@gmail.com> (https://github.com/kaurag007ph)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kaurag007ph/react-native-awesome-module/issues"
+    "url": "https://github.com/kaurag007ph/kaurag-react-native-awesome-module/issues"
   },
-  "homepage": "https://github.com/kaurag007ph/react-native-awesome-module#readme",
+  "homepage": "https://github.com/kaurag007ph/kaurag-react-native-awesome-module#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

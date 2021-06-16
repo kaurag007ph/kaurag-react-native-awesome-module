@@ -1,10 +1,10 @@
 {
-  "name": "react-native-awesome-module-example",
+  "name": "kaurag-react-native-awesome-module-example",
   "displayName": "AwesomeModule Example",
   "expo": {
-    "name": "react-native-awesome-module-example",
-    "slug": "react-native-awesome-module-example",
-    "description": "Example app for react-native-awesome-module",
+    "name": "kaurag-react-native-awesome-module-example",
+    "slug": "kaurag-react-native-awesome-module-example",
+    "description": "Example app for kaurag-react-native-awesome-module",
     "privacy": "public",
     "version": "1.0.0",
     "platforms": [
